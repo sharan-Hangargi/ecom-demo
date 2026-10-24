@@ -1,4 +1,4 @@
-# ecom-demo
+git # ecom-demo
 ecommerce platform like flipcart 
 <br>
-Author - sharan hangargi
+Author - sharan hangargi(new on)
